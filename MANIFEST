@@ -11,6 +11,7 @@ t/TestNoOverrideBrat.pm
 t/TestNoOverrideChild.pm
 t/TestNoOverrideGrandma.pm
 t/TestNoOverrideGrandpa.pm
+t/TestNoOverrideNew.pm
 t/TestNoOverrideParent.pm
 xt/01_perlcritic.t
 xt/02_pod-coverage.t
