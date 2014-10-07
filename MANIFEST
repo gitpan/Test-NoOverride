@@ -9,6 +9,7 @@ t/00_compile.t
 t/01_basic.t
 t/TestNoOverrideBrat.pm
 t/TestNoOverrideChild.pm
+t/TestNoOverrideCommon.pm
 t/TestNoOverrideGrandma.pm
 t/TestNoOverrideGrandpa.pm
 t/TestNoOverrideNew.pm

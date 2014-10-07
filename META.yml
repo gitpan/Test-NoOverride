@@ -16,7 +16,7 @@ name: Test-NoOverride
 provides:
   Test::NoOverride:
     file: lib/Test/NoOverride.pm
-    version: 0.03
+    version: 0.04
 requires:
   Module::Functions: 0
   Test::More: 0.88
@@ -25,4 +25,4 @@ resources:
   bugtracker: http://github.com/bayashi/Test-NoOverride/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/bayashi/Test-NoOverride
-version: 0.03
+version: 0.04
